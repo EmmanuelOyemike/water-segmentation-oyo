@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.npy
+*.npz
+*.pt
+*.tif
+data/
+water_segmentation_processed/
+water_segmentation_v6/checkpoints/
+water_segmentation_v6/predictions/
